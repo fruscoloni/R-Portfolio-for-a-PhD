@@ -103,6 +103,3 @@ ggsave("multiple_regression.png", multiple_regression, path = "outputs", width =
 #
 final_plot <- species_weight | multiple_regression
 ggsave("weight_analysis.png", final_plot, path = "outputs", width = 13, height = 6, dpi = 300)
-
-
-write.csv(penguins, "Palmer_Penguins.csv")
