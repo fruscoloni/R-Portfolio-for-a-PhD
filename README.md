@@ -1,7 +1,7 @@
 # Portfolio for a PhD in Marine Biology
 
 # Overview
-The following repository contains end-to-end data analysis projects written in R, in an attempt to showcase the R knowledge gained so far, in a prospective for a future PhD in marine biology.
+The following repository contains end-to-end data analysis projects written in R, in an attempt to showcase the R knowledge gained so far through free online content, in a prospective for a future PhD in marine biology.
 
 # Repository Structure 
 * Projects/
